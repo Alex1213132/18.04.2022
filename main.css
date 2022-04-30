@@ -1,0 +1,465 @@
+.background {
+  width: 1600px;
+  height: 2700px;
+  background-color: #222b3a;
+  outline: 2px solid #00BFFF;
+}
+
+.header {
+  display: flex;
+  width: 1600px;
+  height: 72px;
+  background-color: #ffffff;
+}
+
+.title {
+  display: flex;
+  width: 1600px;
+  height: 513px;
+  background-color: #296dce;
+}
+
+.navigator {
+  display: flex;
+  width: 1600px;
+  height: 50px;
+  background-color: #ffffff;
+}
+
+.subtitle {
+  display: flex;
+  width: 1600px;
+  height: 99px;
+  background-color: #ffffff;
+}
+
+.text {
+  display: flex;
+  width: 1600px;
+  height: 1568px;
+  background-color: #ffffff;
+}
+
+.map {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 1600px;
+  height: 340px;
+  background-color: #0099dd;
+}
+
+.glass {
+  width: 60px;
+  height: 10px;
+}
+
+.logo {
+  width: 184px;
+  height: 34px;
+}
+
+.logoblock {
+  width: 184px;
+  height: 72px;
+}
+
+.glass1 {
+  width: 19px;
+  height: 15px;
+}
+
+.glass2 {
+  width: 300px;
+  height: 15px;
+}
+
+.glass3 {
+  width: 64px;
+  height: 64px;
+}
+
+.titletextblock {
+  display: flex;
+  width: 942px;
+  height: 449px;
+}
+
+.glass4 {
+  width: 246px;
+  height: 64px;
+}
+
+.titletext {
+  width: 942px;
+  height: 449px;
+}
+
+.headline {
+  width: 622px;
+  height: 184px;
+}
+
+.glass5 {
+  width: 246px;
+  height: 10px;
+}
+
+.button {
+  text-align: center;
+  width: 209px;
+  height: 44px;
+  outline: 2px solid white;
+}
+
+.glass6 {
+  width: 1px;
+  height: 20px;
+}
+
+.glass7 {
+  width: 1px;
+  height: 75px;
+}
+
+.whiteline {
+  justify-content: center;
+  align-items: center;
+  width: 468px;
+  height: 15px;
+  background-color: #ffffff;
+}
+
+.blueline {
+  width: 259px;
+  height: 9px;
+  background-color: #1E90FF;
+}
+
+.glass8 {
+  width: 1px;
+  height: 3px;
+}
+
+.glass9 {
+  width: 3px;
+  height: 10px;
+  background-color: #ffffff;
+}
+
+.glass10 {
+  width: 5px;
+  height: 5px;
+}
+
+.statistics {
+  display: flex;
+  width: 500px;
+  height: 45px;
+}
+
+.glass11 {
+  width: 10px;
+  height: 5px;
+}
+
+.statisticstext {
+  width: 70px;
+  height: 45px;
+}
+
+.glass12 {
+  width: 250px;
+  height: 5px;
+}
+
+.statisticstext1 {
+  width: 70px;
+  height: 45px;
+}
+
+.glass13 {
+  width: 10px;
+  height: 5px;
+}
+
+.statisticstext2 {
+  width: 70px;
+  height: 45px;
+}
+
+.photo {
+  width: 600px;
+  height: 513px;
+}
+
+.glass14 {
+  width: 200px;
+  height: 5px;
+}
+
+.navigatortex {
+  text-align: center;
+  width: 245px;
+  height: 20px;
+}
+
+.glass15 {
+  width: 245px;
+  height: 15px;
+}
+
+.glass16 {
+  width: 800px;
+  height: 15px;
+}
+
+.orangebutton {
+  text-align: center;
+  background-color: white;
+  border: 3px solid orange;
+  transition-duration: .8s
+}
+
+.orangebutton:hover {
+  background-color: #1091ca;
+  border-width: 6px;
+  border-color: orange;
+  border-radius: 8px;
+}
+
+.glass17 {
+  width: 20px;
+  height: 15px;
+}
+
+.glass18 {
+  width: 200px;
+  height: 1568px;
+}
+
+.alltextblock {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+  width: 1205px;
+  height: 1568px;
+}
+
+.textblock01 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 1205px;
+  height: 210px;
+}
+
+.textblock02 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 1205px;
+  height: 210px;
+}
+
+.textblock03 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 1205px;
+  height: 210px;
+}
+
+.textblock04 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 1205px;
+  height: 210px;
+}
+
+.textblock05 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 1205px;
+  height: 210px;
+}
+
+.textblock06 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 1205px;
+  height: 210px;
+}
+
+.number01 {
+  width: 100px;
+  height: 200px;
+}
+
+.text01 {
+  width: 900px;
+  height: 200px;
+}
+
+.chartwhite01 {
+  display: grid;
+  justify-content: center;
+  width: 15px;
+  height: 121px;
+  background-color: #f3f3f3;
+  outline: 2px solid #e6e6e6;
+}
+
+.glass19 {
+  width: 1px;
+  height: 31px;
+}
+
+.chartblue01 {
+  width: 9px;
+  height: 87px;
+  background-color: #1091ca;
+  outline: 2px solid #37a9db;
+}
+
+.chart01 {
+  display: grid;
+  justify-content: center;
+  width: 40px;
+  height: 150px;
+}
+
+.chartorangeblock {
+  display: grid;
+  justify-content: center;
+  width: 40px;
+  height: 150px;
+}
+
+.chartorange {
+  display: grid;
+  justify-content: center;
+  width: 15px;
+  height: 121px;
+}
+
+.section1 {
+  display: grid;
+  justify-content: center;
+  width: 10px;
+  height: 5px;
+  background-color: #e8e8e8;
+}
+
+.section2 {
+  display: grid;
+  justify-content: center;
+  width: 10px;
+  height: 5px;
+  background-color: #e8e8e8;
+}
+
+.section3 {
+  display: grid;
+  justify-content: center;
+  width: 10px;
+  height: 5px;
+  background-color: #e8e8e8;
+}
+
+.section4 {
+  display: grid;
+  justify-content: center;
+  width: 10px;
+  height: 5px;
+  background-color: #e8e8e8;
+}
+
+.section5 {
+  display: grid;
+  justify-content: center;
+  width: 10px;
+  height: 5px;
+  background-color: #e8e8e8;
+}
+
+.section6 {
+  display: grid;
+  justify-content: center;
+  width: 10px;
+  height: 5px;
+  background-color: #f1b425;
+}
+
+.section7 {
+  display: grid;
+  justify-content: center;
+  width: 10px;
+  height: 5px;
+  background-color: #f1b425;
+}
+
+.section8 {
+  display: grid;
+  justify-content: center;
+  width: 10px;
+  height: 5px;
+  background-color: #f1b425;
+}
+
+.section9 {
+  display: grid;
+  justify-content: center;
+  width: 10px;
+  height: 5px;
+  background-color: #f1b425;
+}
+
+.section10 {
+  display: grid;
+  justify-content: center;
+  width: 10px;
+  height: 5px;
+  background-color: #f1b425;
+}
+
+.section11 {
+  display: grid;
+  justify-content: center;
+  width: 10px;
+  height: 5px;
+  background-color: #f1b425;
+}
+
+.glass20 {
+  width: 50px;
+  height: 50px;
+}
+
+.glass21 {
+  width: 95px;
+  height: 95px;
+}
+
+.maptext1 {
+  width: 200px;
+  height: 250px;
+}
+
+.maptext2 {
+  width: 200px;
+  height: 340px;
+}
+
+.maptext3 {
+  width: 200px;
+  height: 300px;
+}
+
+.maptext4 {
+  width: 200px;
+  height: 300px;
+}
